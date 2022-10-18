@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+h2,h3 {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+ul {
+    color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.links {
+    text-align: center;
+}
+
+.lasagna {
+    color: #ff0000;
+    text-decoration-color: transparent;
+}
+
+.brats {
+    color: #80603c;
+    text-decoration-color: transparent;
+}
+
+.mac {
+    color: #ffa500;
+    text-decoration-color: transparent;
+}
+
+.ingredients {
+    color: black;
+    text-align: left;
+}
+
+div,img {
+    text-align: center;
+}
+img {
+    width: 60%;
+}
+
+.return {
+    color: gray;
+    text-decoration-color: transparent;
+    text-align: left;
+
+}
+
+.nutrition {
+    font-size: 16px;
+}
+
+.prep {
+    font-size: 16px;
+    text-align: center;
+}
+
